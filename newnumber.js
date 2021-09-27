@@ -1,0 +1,10 @@
+let number1=  new Number (7);
+let number2= new Number (-55);
+let number3= new Number (389);
+let number4= new Number (1000);
+let number5= new Number (3.1459);
+let number6= new Number (-46.267);
+console.log(number1, number2, number3, number4, number5, number6);
+console.log(number1 + number6);
+console.log(number1 * number3);
+console.log(number4 / number5);
